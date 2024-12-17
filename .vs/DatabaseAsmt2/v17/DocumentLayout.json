@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual STUDIO\\DatabaseAsmt2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|D:\\Visual STUDIO\\DatabaseAsmt2\\databaseasmt2\\history form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|solutionrelative:databaseasmt2\\history form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|D:\\Visual STUDIO\\DatabaseAsmt2\\databaseasmt2\\mangeemployee form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|solutionrelative:databaseasmt2\\mangeemployee form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|D:\\Visual STUDIO\\DatabaseAsmt2\\databaseasmt2\\managecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|solutionrelative:databaseasmt2\\managecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|D:\\Visual STUDIO\\DatabaseAsmt2\\databaseasmt2\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|solutionrelative:databaseasmt2\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|D:\\Visual STUDIO\\DatabaseAsmt2\\databaseasmt2\\managecustomer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|solutionrelative:databaseasmt2\\managecustomer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|D:\\Visual STUDIO\\DatabaseAsmt2\\databaseasmt2\\managecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|solutionrelative:databaseasmt2\\managecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|D:\\Visual STUDIO\\DatabaseAsmt2\\databaseasmt2\\warehousemanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|solutionrelative:databaseasmt2\\warehousemanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|D:\\Visual STUDIO\\DatabaseAsmt2\\databaseasmt2\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|solutionrelative:databaseasmt2\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|D:\\Visual STUDIO\\DatabaseAsmt2\\databaseasmt2\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|solutionrelative:databaseasmt2\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|D:\\Visual STUDIO\\DatabaseAsmt2\\databaseasmt2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|solutionrelative:databaseasmt2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|D:\\Visual STUDIO\\DatabaseAsmt2\\databaseasmt2\\manager product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|solutionrelative:databaseasmt2\\manager product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|d:\\visual studio\\databaseasmt2\\databaseasmt2\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|solutionrelative:databaseasmt2\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|D:\\Visual STUDIO\\DatabaseAsmt2\\databaseasmt2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|solutionrelative:databaseasmt2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|D:\\Visual STUDIO\\DatabaseAsmt2\\databaseasmt2\\manager product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|solutionrelative:databaseasmt2\\manager product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|D:\\Visual STUDIO\\DatabaseAsmt2\\databaseasmt2\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|solutionrelative:databaseasmt2\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|D:\\Visual STUDIO\\DatabaseAsmt2\\databaseasmt2\\mangeemployee form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|solutionrelative:databaseasmt2\\mangeemployee form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|D:\\Visual STUDIO\\DatabaseAsmt2\\databaseasmt2\\history form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|solutionrelative:databaseasmt2\\history form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|D:\\Visual STUDIO\\DatabaseAsmt2\\databaseasmt2\\warehousemanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|solutionrelative:databaseasmt2\\warehousemanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|D:\\Visual STUDIO\\DatabaseAsmt2\\databaseasmt2\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF26CB7-FE45-4BB0-9273-B7BC08742F83}|DatabaseAsmt2\\DatabaseAsmt2.csproj|solutionrelative:databaseasmt2\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminForm.Designer.cs",
+              "DocumentMoniker": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\AdminForm.Designer.cs",
+              "RelativeDocumentMoniker": "DatabaseAsmt2\\AdminForm.Designer.cs",
+              "ToolTip": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\AdminForm.Designer.cs",
+              "RelativeToolTip": "DatabaseAsmt2\\AdminForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T01:38:58.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\Form1.cs",
+              "RelativeDocumentMoniker": "DatabaseAsmt2\\Form1.cs",
+              "ToolTip": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\Form1.cs",
+              "RelativeToolTip": "DatabaseAsmt2\\Form1.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAuwKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:07:42.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SaleForm.cs [Design]",
+              "DocumentMoniker": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\SaleForm.cs",
+              "RelativeDocumentMoniker": "DatabaseAsmt2\\SaleForm.cs",
+              "ToolTip": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\SaleForm.cs [Design]",
+              "RelativeToolTip": "DatabaseAsmt2\\SaleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:13:10.925Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "History Form.cs",
+              "DocumentMoniker": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\History Form.cs",
+              "RelativeDocumentMoniker": "DatabaseAsmt2\\History Form.cs",
+              "ToolTip": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\History Form.cs",
+              "RelativeToolTip": "DatabaseAsmt2\\History Form.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:30:47.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageCustomer.cs",
+              "DocumentMoniker": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\ManageCustomer.cs",
+              "RelativeDocumentMoniker": "DatabaseAsmt2\\ManageCustomer.cs",
+              "ToolTip": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\ManageCustomer.cs",
+              "RelativeToolTip": "DatabaseAsmt2\\ManageCustomer.cs",
+              "ViewState": "AgIAAGEBAAAAAAAAAAAqwJABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:33:46.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Manager Product.cs",
+              "DocumentMoniker": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\Manager Product.cs",
+              "RelativeDocumentMoniker": "DatabaseAsmt2\\Manager Product.cs",
+              "ToolTip": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\Manager Product.cs",
+              "RelativeToolTip": "DatabaseAsmt2\\Manager Product.cs",
+              "ViewState": "AgIAAOgBAAAAAAAAAAAAABgCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:40:43.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\AdminForm.cs",
+              "RelativeDocumentMoniker": "DatabaseAsmt2\\AdminForm.cs",
+              "ToolTip": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\AdminForm.cs",
+              "RelativeToolTip": "DatabaseAsmt2\\AdminForm.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:57:21.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageCustomer.Designer.cs",
+              "DocumentMoniker": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\ManageCustomer.Designer.cs",
+              "RelativeDocumentMoniker": "DatabaseAsmt2\\ManageCustomer.Designer.cs",
+              "ToolTip": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\ManageCustomer.Designer.cs",
+              "RelativeToolTip": "DatabaseAsmt2\\ManageCustomer.Designer.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAewL0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:36:40.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "History Form.cs [Design]",
+              "DocumentMoniker": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\History Form.cs",
+              "RelativeDocumentMoniker": "DatabaseAsmt2\\History Form.cs",
+              "ToolTip": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\History Form.cs [Design]",
+              "RelativeToolTip": "DatabaseAsmt2\\History Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:24:59.538Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Manager Product.cs [Design]",
+              "DocumentMoniker": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\Manager Product.cs",
+              "RelativeDocumentMoniker": "DatabaseAsmt2\\Manager Product.cs",
+              "ToolTip": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\Manager Product.cs [Design]",
+              "RelativeToolTip": "DatabaseAsmt2\\Manager Product.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:34:50.847Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageCustomer.cs [Design]",
+              "DocumentMoniker": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\ManageCustomer.cs",
+              "RelativeDocumentMoniker": "DatabaseAsmt2\\ManageCustomer.cs",
+              "ToolTip": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\ManageCustomer.cs [Design]",
+              "RelativeToolTip": "DatabaseAsmt2\\ManageCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:23:34.666Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MangeEmployee Form.cs",
+              "DocumentMoniker": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\MangeEmployee Form.cs",
+              "RelativeDocumentMoniker": "DatabaseAsmt2\\MangeEmployee Form.cs",
+              "ToolTip": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\MangeEmployee Form.cs",
+              "RelativeToolTip": "DatabaseAsmt2\\MangeEmployee Form.cs",
+              "ViewState": "AgIAAKoBAAAAAAAAAAAmwNgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:19:08.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MangeEmployee Form.cs [Design]",
+              "DocumentMoniker": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\MangeEmployee Form.cs",
+              "RelativeDocumentMoniker": "DatabaseAsmt2\\MangeEmployee Form.cs",
+              "ToolTip": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\MangeEmployee Form.cs [Design]",
+              "RelativeToolTip": "DatabaseAsmt2\\MangeEmployee Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:31:57.615Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\AdminForm.cs",
+              "RelativeDocumentMoniker": "DatabaseAsmt2\\AdminForm.cs",
+              "ToolTip": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\AdminForm.cs [Design]",
+              "RelativeToolTip": "DatabaseAsmt2\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:03:56.226Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WarehouseManagerForm.cs",
+              "DocumentMoniker": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\WarehouseManagerForm.cs",
+              "RelativeDocumentMoniker": "DatabaseAsmt2\\WarehouseManagerForm.cs",
+              "ToolTip": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\WarehouseManagerForm.cs",
+              "RelativeToolTip": "DatabaseAsmt2\\WarehouseManagerForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:45:59.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WarehouseManagerForm.cs [Design]",
+              "DocumentMoniker": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\WarehouseManagerForm.cs",
+              "RelativeDocumentMoniker": "DatabaseAsmt2\\WarehouseManagerForm.cs",
+              "ToolTip": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\WarehouseManagerForm.cs [Design]",
+              "RelativeToolTip": "DatabaseAsmt2\\WarehouseManagerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:12:42.229Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SaleForm.cs",
+              "DocumentMoniker": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\SaleForm.cs",
+              "RelativeDocumentMoniker": "DatabaseAsmt2\\SaleForm.cs",
+              "ToolTip": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\SaleForm.cs",
+              "RelativeToolTip": "DatabaseAsmt2\\SaleForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:37:43.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\Form1.cs",
+              "RelativeDocumentMoniker": "DatabaseAsmt2\\Form1.cs",
+              "ToolTip": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\Form1.cs [Design]",
+              "RelativeToolTip": "DatabaseAsmt2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:58:39.654Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "DatabaseAsmt2\\DatabaseConnection.cs",
+              "ToolTip": "D:\\Visual STUDIO\\DatabaseAsmt2\\DatabaseAsmt2\\DatabaseConnection.cs",
+              "RelativeToolTip": "DatabaseAsmt2\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:01:35.864Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
